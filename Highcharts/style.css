@@ -1,0 +1,22 @@
+#container{
+    width: 100%;
+    height: 400px;
+    margin-top: 5%;
+}
+
+.overskrift{
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.imageBox{
+    margin-top: 2%;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
